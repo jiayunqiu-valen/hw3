@@ -16,7 +16,7 @@ if (random(100) > 99.9) {
     h = 10;
   }
   
-  if the grass grow(the height) achieved 100, the black will chage to white and the grass will grow start from 10 (the beginning). and the background will not change to black anymore. 
+  if the grass grow(the height) achieved 100, the lawnmower will come and the grass will grow start from 10 (the beginning).  
 
 3.What's the point of the h variable?
 
